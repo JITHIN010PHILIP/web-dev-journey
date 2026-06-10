@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+    font-family: Arial;
+}
+h1{
+    color: navy;
+}
+label{
+    font-weight: bold;
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 8px;
+}
